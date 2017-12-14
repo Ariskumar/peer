@@ -1,3 +1,3 @@
 # Guessing Game
-Thu Dec 14 16:24:10 DST 2017
-21 guessinggame.sh
+- Time Stamp : Thu Dec 14 16:40:29 DST 2017
+- No of lines : 21 guessinggame.sh
